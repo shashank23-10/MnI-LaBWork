@@ -11,9 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="halfwave.vi" Type="VI" URL="../../Lab12/halfwave.vi"/>
-		<Item Name="loop_shiftregister_sum_ConsNaturalNos.vi" Type="VI" URL="../loop_shiftregister_sum_ConsNaturalNos.vi"/>
-		<Item Name="sinewave.vi" Type="VI" URL="../sinewave.vi"/>
+		<Item Name="water level pid controller.vi" Type="VI" URL="../water level pid controller.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
